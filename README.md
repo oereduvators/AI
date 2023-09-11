@@ -2,7 +2,7 @@
 
 ####1. [Curriculum transformation]([embed]https://github.com/oereduvators/AI/blob/e84d5514042d593f0d7714fbeac34ed3663f7b34/Standards%20Based%20framework%20for%20integrating%20curriculum%20transformation%20in%20modules%20and%20programmes.pdf[/embed])
 
-####2. [Designing Online Learning][embed]https://github.com/oereduvators/AI/blob/e84d5514042d593f0d7714fbeac34ed3663f7b34/Guidelines%20for%20designing%20online%20learning%20materials.pdf[/embed]
+####2. [Designing Online Learning](https://nbviewer.org/github/oereduvators/AICourseDesign/blob/master/Guidelines%20for%20designing%20online%20learning%20materials.pdf)
 
 ####3. [Curriculum policy][embed]https://github.com/oereduvators/AI/blob/e84d5514042d593f0d7714fbeac34ed3663f7b34/Revised%20Curriculum%20Policy.pdf[/embed]
 
